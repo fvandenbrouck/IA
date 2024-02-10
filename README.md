@@ -1,19 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<meta charset="UTF-8">
-  <title>Page d'introduction</title>
-  <style>
-    .image {
-      width: 200px; /* Largeur souhaitée */
-      height: auto; /* Hauteur ajustée automatiquement en conservant les proportions */
-    }
 
-    .image:first-child {
-      margin-right: 200px; /* Espace horizontal de 200 pixels */
-    }
-  </style>
-</head>
 <body>
    
     <br />
