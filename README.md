@@ -19,7 +19,7 @@
     <br />
      <br />
 <center>
-  <img src="logoMENJ.png" alt="Image 1" class="image">
+  <img width="200px" height="auto" src="logoMENJ.png" alt="Image 1" class="image">
 
   <img src="logoIGESR2.png" alt="Image 2" class="image">
 </center>
