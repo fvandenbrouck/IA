@@ -2,9 +2,7 @@
 <html>
 
 <body>
-   
-    <br />
-     <br />
+
 <center>
   <img width="200px" height="auto" margin-right="200px" src="logoMENJ.png" alt="Image 1" class="image">
 
